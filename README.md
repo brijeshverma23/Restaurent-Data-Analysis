@@ -1,1 +1,1 @@
-# Restaurent-Data-Analysis
+# Restaurant-Data-Analysis
